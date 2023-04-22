@@ -3,6 +3,16 @@
 ![KhewDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=khewdev)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   14 hrs 5 mins   ███████████▒░░░░░░░░░░░░░   45.22 %
+Bash         5 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+YAML         4 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Docker       2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+JSON         2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Other        1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
