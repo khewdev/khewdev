@@ -2,6 +2,9 @@
 
 ![KhewDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=khewdev)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **khewdev/khewdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
