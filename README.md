@@ -31,7 +31,7 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 
 ### GitHub Stats
 
-![KhewDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=khewdev) 
+![KhewDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=khewdev&count_private=true) 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khewdev&langs_count=10"></a>
 
