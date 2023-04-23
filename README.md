@@ -29,11 +29,11 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Github Repo Stats
+### GitHub Stats
 
-![KhewDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=khewdev)
+![KhewDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=khewdev) 
 
-<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khewdev&langs_count=10"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khewdev&langs_count=10"></a>
 
 ### Visual Studio Code Stats
 <!--START_SECTION:waka-->
