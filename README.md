@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=khewdev&color=blue&style=flat-square)
 
-Hi 👋 My name is Khew
+Hi 👋 I'm Khew
 =====================
 
 I am a Full Stack Developer 👨🏻‍💻
