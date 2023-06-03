@@ -40,12 +40,12 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 ### Visual Studio Code Stats
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   23 hrs 7 mins   ██████████████████████░░░   88.63 %
-Bash         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Other        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Docker       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+```txt
+TypeScript   20 hrs 50 mins  ██████████████████████░░░   87.80 %
+Bash         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Other        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Docker       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
