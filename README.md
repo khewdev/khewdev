@@ -41,11 +41,11 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       4 hrs 44 mins   █████████████░░░░░░░░░░░░   51.77 %
-TypeScript   2 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
-JSON         1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-GraphQL      29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Svelte           8 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.61 %
+TypeScript       4 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.62 %
+JSON             1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+GraphQL          53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+JavaScript       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
