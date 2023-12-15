@@ -41,11 +41,11 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 hrs 29 mins  ████████████████▒░░░░░░░░   65.27 %
-Python       2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-JSON         1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Go           1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+TypeScript   19 hrs 34 mins  ██████████████████▒░░░░░░   72.85 %
+Python       2 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Go           1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+JSON         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
