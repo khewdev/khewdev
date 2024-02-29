@@ -41,11 +41,11 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 9 mins    ████████████████▓░░░░░░░░   66.67 %
-CSV          2 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   28.25 %
-Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+CSV          1 hr 39 mins    ██████████░░░░░░░░░░░░░░░   39.70 %
+TypeScript   1 hr 32 mins    █████████▒░░░░░░░░░░░░░░░   36.98 %
+JSON         30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Other        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+YAML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
