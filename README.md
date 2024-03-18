@@ -41,11 +41,11 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-Go           3 hrs 44 mins   ██████████████████▒░░░░░░   72.94 %
-Python       54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-JSON         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Go           2 hrs 57 mins   █████████████████░░░░░░░░   68.01 %
+Python       54 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+JSON         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
