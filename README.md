@@ -41,11 +41,11 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       55 mins         █████████████▒░░░░░░░░░░░   53.98 %
-Text         21 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-Bash         17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Text         21 mins         █████████████░░░░░░░░░░░░   51.46 %
+Bash         17 mins         ██████████▓░░░░░░░░░░░░░░   42.22 %
+TypeScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Svelte       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
