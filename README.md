@@ -41,9 +41,7 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       16 mins         ███████████████████▒░░░░░   77.95 %
-TypeScript   4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.48 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
