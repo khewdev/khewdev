@@ -41,10 +41,10 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 48 mins    █████████████████████░░░░   83.47 %
-SSH Config   17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-INI          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+SSH Config   17 mins         ██████████████████▓░░░░░░   75.09 %
+JavaScript   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+INI          1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+TypeScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 ```
 
 <!--END_SECTION:waka-->
