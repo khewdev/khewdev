@@ -41,9 +41,9 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   27 mins         █████████████████████▓░░░   86.66 %
-JavaScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-INI          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+TypeScript   27 mins         ██████████████████████▒░░   89.10 %
+JavaScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
