@@ -41,7 +41,8 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-XML   0 secs          █████████████████████████   100.00 %
+Other   0 secs          ██████████████████████▒░░   88.80 %
+XML     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
 ```
 
 <!--END_SECTION:waka-->
