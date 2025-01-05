@@ -41,10 +41,10 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-Bash     2 mins          █████████████████████░░░░   83.61 %
-YAML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-Docker   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Other    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+YAML     12 mins         █████████████████░░░░░░░░   67.47 %
+Bash     5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.01 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Docker   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
