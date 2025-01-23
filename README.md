@@ -41,9 +41,7 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-Other    1 hr 41 mins    █████████████████████████   99.66 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
