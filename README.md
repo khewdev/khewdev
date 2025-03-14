@@ -41,7 +41,9 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   18 mins         ██████████████▓░░░░░░░░░░   59.03 %
+Bash    11 mins         ████████▓░░░░░░░░░░░░░░░░   34.58 %
+JSON    2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
