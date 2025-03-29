@@ -41,7 +41,9 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   9 mins          █████████████████▓░░░░░░░   71.23 %
+JavaScript   3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+Bash         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
