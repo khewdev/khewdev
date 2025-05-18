@@ -41,9 +41,7 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-Text    12 mins         █████████████░░░░░░░░░░░░   52.50 %
-Bash    11 mins         ███████████▓░░░░░░░░░░░░░   46.78 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Text   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
