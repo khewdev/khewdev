@@ -41,11 +41,7 @@ I used to work with C#, .NET Framework, .NET Core, and Blazor at the beginning o
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 43 mins    ███████████████▓░░░░░░░░░   62.22 %
-JSON         52 mins         ███████▓░░░░░░░░░░░░░░░░░   31.25 %
-Other        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
